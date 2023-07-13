@@ -1,0 +1,13 @@
+C:\Users\Tarra\Documents\GitHub\Basic_C#_Programs\BranchingApp\BranchingApp\bin\Debug\netcoreapp3.1\BranchingApp.exe
+C:\Users\Tarra\Documents\GitHub\Basic_C#_Programs\BranchingApp\BranchingApp\bin\Debug\netcoreapp3.1\BranchingApp.deps.json
+C:\Users\Tarra\Documents\GitHub\Basic_C#_Programs\BranchingApp\BranchingApp\bin\Debug\netcoreapp3.1\BranchingApp.runtimeconfig.json
+C:\Users\Tarra\Documents\GitHub\Basic_C#_Programs\BranchingApp\BranchingApp\bin\Debug\netcoreapp3.1\BranchingApp.runtimeconfig.dev.json
+C:\Users\Tarra\Documents\GitHub\Basic_C#_Programs\BranchingApp\BranchingApp\bin\Debug\netcoreapp3.1\BranchingApp.dll
+C:\Users\Tarra\Documents\GitHub\Basic_C#_Programs\BranchingApp\BranchingApp\bin\Debug\netcoreapp3.1\BranchingApp.pdb
+C:\Users\Tarra\Documents\GitHub\Basic_C#_Programs\BranchingApp\BranchingApp\obj\Debug\netcoreapp3.1\BranchingApp.csproj.AssemblyReference.cache
+C:\Users\Tarra\Documents\GitHub\Basic_C#_Programs\BranchingApp\BranchingApp\obj\Debug\netcoreapp3.1\BranchingApp.AssemblyInfoInputs.cache
+C:\Users\Tarra\Documents\GitHub\Basic_C#_Programs\BranchingApp\BranchingApp\obj\Debug\netcoreapp3.1\BranchingApp.AssemblyInfo.cs
+C:\Users\Tarra\Documents\GitHub\Basic_C#_Programs\BranchingApp\BranchingApp\obj\Debug\netcoreapp3.1\BranchingApp.csproj.CoreCompileInputs.cache
+C:\Users\Tarra\Documents\GitHub\Basic_C#_Programs\BranchingApp\BranchingApp\obj\Debug\netcoreapp3.1\BranchingApp.dll
+C:\Users\Tarra\Documents\GitHub\Basic_C#_Programs\BranchingApp\BranchingApp\obj\Debug\netcoreapp3.1\BranchingApp.pdb
+C:\Users\Tarra\Documents\GitHub\Basic_C#_Programs\BranchingApp\BranchingApp\obj\Debug\netcoreapp3.1\BranchingApp.genruntimeconfig.cache
